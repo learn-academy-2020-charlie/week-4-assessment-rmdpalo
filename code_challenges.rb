@@ -7,6 +7,11 @@ fullArr1 = [4, 9, 0, '7', 8, true, 'hey', 7, 199, -9, false, 'hola']
 fullArr2 = ['hello', 7, 23, -823, false, 78, nil, '67', 6, 'Number']
 # Expected output: [-823, 7, 23]
 
+# create a method that takes in an array.
+def odds_only array
+    
+end
+puts odds_only fullArr1
 
 
 
